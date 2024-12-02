@@ -5,6 +5,9 @@ Este proyecto analiza el rendimiento y las interacciones de usuarios dentro de u
 Las tareas incluyen:
 
 Exploración inicial de datos: Limpieza, transformación y análisis preliminar para garantizar consistencia y calidad.
+
 Análisis de eventos y métricas clave: Evaluación de cómo los usuarios interactúan con las funcionalidades principales del sistema.
+
 Generación de insights y recomendaciones: A partir de los patrones observados, se desarrollan estrategias para mejorar la experiencia de usuario y la retención.
+
 Este proyecto es clave para respaldar decisiones estratégicas basadas en datos y aumentar el valor del producto o sistema en línea.
